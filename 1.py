@@ -1,5 +1,5 @@
 import random
-marks = "+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678901"
+marks = "+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOP1QRSTUVWXYZ12345678901"
 podaj_dłudość = int(input("podaj długość hasła:"))
 
 password = ""
